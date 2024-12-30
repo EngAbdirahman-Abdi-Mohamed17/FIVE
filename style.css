@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+table{
+    width: 500px;
+    border-collapse: collapse;
+    border-bottom: 2px solid black;
+}
+table thead tr{
+    background-color: rgb(18, 231, 18);
+    color: aliceblue;
+    text-align: left;
+}
+  table tbody tr,td{
+    border-left: 1px solid white;
+    color:black;
+    padding: 7px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    
+
+}
+ table tbody tr:nth-of-type(1){
+    background-color: rgb(240, 233, 233);
+}
+table tbody tr:nth-of-type(2){
+    background-color: rgb(229, 207, 207);
+}
+ table tbody tr:nth-of-type(3){
+    background-color: rgb(247, 244, 244);
+}
+ table tbody tr:hover{
+
+    background-color: yellow;
+}
+

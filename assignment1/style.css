@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #111827;
+}
+.one{
+    background-color: aqua;
+    color: aliceblue;
+     margin-top: -23px;
+     width: 60%;
+     padding-left: 40%;
+     height: 60px;
+     padding-top: 40px;
+     font-size: 1.6em;
+     color: black;
+}ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    color: aliceblue;
+    margin-bottom: -10px;
+    margin-left: -15%;
+    font-size: 1.8em;
+}
+.xar{
+    font-size: 2em;
+}
+.one i{
+    font-size: 1em;
+    color: black;
+}
+
+
+i{
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.5em;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    padding-top: 30px;
+}
+hr{
+    margin-top: 20px;
+}
+.icon1{
+    font-size: 2em;
+    gap: 10px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+    margin-right: 20px;
+    
+}
+.right-side{
+    margin-top: 120PX;
+
+}
+.right-side p{
+    padding-top: 30px;
+    font-family: arial;
+    font-size: 1.8em;
+}
+.right-side button{
+    margin-top: 40px;
+    padding: 10px 120px;
+    font-size: 2em;
+    border-radius: 4px;
+    background-color: aqua;
+    font-weight: bold;
+    box-shadow: 5px 10px 15px rgb(194, 192, 192);
+}
+.left-side{
+    background-color: aqua;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+
+.box h2{
+    color: aliceblue;
+    font-size: 3em;
+
+}
+.box p{
+    color: aliceblue;
+
+    font-size: 1.5em;
+
+    
+}
+
+
+.icon{
+    display: flex;
+    gap: 80px;
+    color: aliceblue;
+
+    font-size: 1.8em;
+    margin-left:800px;
+    margin-top: 50px;
+
+}
+.icon i{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 1.3em;
+    padding-bottom: 20px;
+    background-color: aqua;
+    width: 50px;
+    height: 20px;
+    border-radius: 50%;
+
+}
+#a10{
+    color: rgb(242, 180, 104);
+    text-align: center;
+    padding-top: 10%;
+    font-size: 3em;
+    font-family: arial;
+}
+.sawir{
+    display: flex;
+    margin-top: 10%;
+    justify-content: space-around;
+    margin-bottom: 30px;
+
+
+}
+.sawir1{
+    background-color: rgb(200, 200, 200);
+    border-radius: 10px;
+
+}
+.sawir1 h1{
+    padding-left: 60px;
+    font-family: arial;
+}
+.sawir1 p{
+    padding-left: 60px;
+    font-family: arial;
+}
+.sawir2{
+    background-color: rgb(200, 200, 200);
+    border-radius: 10px;
+
+}
+.sawir2 h1{
+    padding-left: 60px;
+    font-family: arial;
+}
+.sawir2 p{
+    padding-left: 60px;
+    font-family: arial;
+}
+.sawir3{
+    background-color: rgb(200, 200, 200);
+    border-radius: 10px;
+
+}
+.sawir3 h1{
+    padding-left: 60px;
+    font-family: arial;
+}
+.sawir3 p{
+    padding-left: 60px;
+    font-family: arial;
+}
+
